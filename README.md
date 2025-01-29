@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi544" alt="ayushi544" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Cloud Computing, GitHub, and Linux Programming**
+- 🌱 I’m currently learning **Power BI, Machine Learning and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1mSqrwN1LK22MDt0bPrC9LNWPcKxReTiN?usp=drive_link](https://drive.google.com/drive/folders/1mSqrwN1LK22MDt0bPrC9LNWPcKxReTiN?usp=drive_link)
 
