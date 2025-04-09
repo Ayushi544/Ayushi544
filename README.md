@@ -1,9 +1,9 @@
 ---
 <h1 align="center">Hi 👋, I'm Ayushi Dadhich</h1>
-<h3 align="center">✨ A Passionate Data Analyst from India ✨</h3>
+<h3 align="center">Data Analyst | Machine Learning Enthusiast | Author</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/IeRdg7gLkfA6A/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -17,16 +17,17 @@
 
 ---
 
-### 🌸 About Me
+### 📌 About Me
 
 - 🎓 Postgraduate in **Big Data Analytics** from CDAC Delhi
 - 📊 Aspiring **Data Analyst** passionate about data-driven decision making
+- ✍️ Author of *Scars and Silence* — a bilingual poetry collection exploring growth, responsibility, and healing
 - 🌱 Currently learning **Power BI**, **Machine Learning**, and **Advanced Analytics**
 - 💬 Ask me about: `SQL`, `Power BI`, `Python`, `Business Development`
-- 🧠 Fun Fact: I love exploring the balance between **logic and creativity** ✨
+- 🧠 I enjoy blending technical insights with creative expression
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V0MmE4MmY4Mmh2d3F6c3R1bHR3eHZtaDZ6aDVoN25pczF0OXJ3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd1YWV5NnNtcHR1YmZmb2o0YW5mbG80eG5ydHZ4MXB0Z2FidnA0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nm8ZPAGOwZUQM/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -46,7 +47,7 @@
 
 ### 📂 Projects & Portfolio
 
-🔗 Explore my interactive portfolio 👉 [Click Here](https://preview--my-portfolio-project.lovable.app/)
+🔗 Explore my interactive portfolio on **Lovable** 👉 [Click Here](https://preview--my-portfolio-project.lovable.app/)
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmViNHd5bDZnZnBnczJ5MTh5N3p5dDVjcnk3anFoZHQ0ajBmMWI0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL1soZ3STRDSLGU/giphy.gif" width="300"/>
@@ -76,7 +77,7 @@
 ### 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/3ov9kbuQg8ayvoYGx6/giphy.gif" width="280"/>
 </p>
 
 ---
