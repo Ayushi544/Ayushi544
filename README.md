@@ -1,90 +1,84 @@
-<!-- Header Banner -->
-<h1 align="center" style="color:#ff69b4;">🎯 Ayushi Dadhich</h1>
-<h3 align="center" style="color:#4b0082;">Data Analyst • Power BI Developer • Insight Architect</h3>
+---
+<h1 align="center">Hi 👋, I'm Ayushi Dadhich</h1>
+<h3 align="center">✨ Aesthetic & Passionate Data Analyst from India ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushi544&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
   <a href="https://preview--my-portfolio-project.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-🌐 Portfolio Website-blueviolet?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-lightpink?style=for-the-badge"/>
   </a>
   <a href="mailto:ayushidadhich546@gmail.com">
-    <img src="https://img.shields.io/badge/-📬 Contact Me-ff69b4?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayushidadhich/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/📬%20Email%20Me-ffc0cb?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 🧩 About Me
+### 🌸 About Me
 
-💫 I’m **Ayushi**, a data-driven storyteller who loves solving business problems with clean visuals & powerful insights.  
-🔍 Currently sharpening my skills in **Power BI, Machine Learning, and Data Analytics**.  
-📓 Background in **Big Data Analytics**, passionate about building scalable, elegant data solutions.
-
----
-
-## 🛠️ My Toolbox
+- 🎓 Postgraduate in **Big Data Analytics** from CDAC Delhi
+- 📊 Aspiring **Data Analyst** passionate about data-driven decision making
+- 🌱 Currently learning **Power BI**, **Machine Learning**, and **Advanced Analytics**
+- 💬 Ask me about: `SQL`, `Power BI`, `Python`, `Business Development`
+- 🧠 Fun Fact: I love exploring the balance between **logic and creativity** ✨
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=blue" />
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Frames-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Visual%20Dashboards-f2c811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-Advanced%20Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V0MmE4MmY4Mmh2d3F6c3R1bHR3eHZtaDZ6aDVoN25pczF0OXJ3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
 
 ---
 
-## 🚀 My Projects & Portfolio
-
-✨ Explore my work across different domains:
-
-- 📂 [Google Drive Portfolio Folder](https://drive.google.com/drive/folders/1mSqrwN1LK22MDt0bPrC9LNWPcKxReTiN?usp=drive_link)  
-- 🌐 [Hosted Portfolio Website](https://preview--my-portfolio-project.lovable.app/)  
-- 📊 Power BI Dashboards | 🧠 EDA Notebooks | 📉 Business Strategy Decks
-
----
-
-## 📌 Featured Repositories
-
-| 💡 Project | 🔍 Description |
-|-----------|----------------|
-| `powerbi-inventory-dashboard` | Inventory management dashboard with KPIs & automation |
-| `pixar-dashboard` | Ranked Power BI dashboard analyzing Pixar films |
-| `call-center-analytics` | Excel + BI case study on HR optimization |
-| `loan-risk-eda` | Exploratory data analysis on bank loan data |
-| `car-price-analysis` | Market insights & regression modeling in Excel |
-| `imdb-movie-analysis` | IMDb dataset statistical breakdown and visuals |
-
----
-
-## 🏆 Achievements & GitHub Stats
+### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushi544&theme=dracula&margin-w=10&no-frame=true&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushi544&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi544&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://img.shields.io/badge/Python-ffd1dc?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-ffe4e1?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerBI-ffc0cb?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-ffe4e1?style=for-the-badge&logo=pandas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-f7cac9?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-f8c8dc?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 🎯 Fun Facts
+### 📂 Projects & Portfolio
 
-- 📘 Published Author: *Scars and Silence* — A bilingual poetry book
-- 🌱 Learning ML one project at a time
-- 🧠 Big believer in structured thinking & clear storytelling
-- 👥 Always open to data collabs & dashboard challenges!
+🔗 Check out all my projects [here](https://drive.google.com/drive/folders/1mSqrwN1LK22MDt0bPrC9LNWPcKxReTiN?usp=drive_link)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmViNHd5bDZnZnBnczJ5MTh5N3p5dDVjcnk3anFoZHQ0ajBmMWI0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL1soZ3STRDSLGU/giphy.gif" width="300"/>
+</p>
 
 ---
 
-> **“Data is not just numbers — it’s the story your business is trying to tell. I help you hear it loud and clear.”**  
-> Let’s connect and build something meaningful together. 🌐💼📊
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushidadhich/">
+    <img src="https://img.shields.io/badge/LinkedIn-ayushi%20dadhich-f9a1bc?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushi544&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi544&layout=compact&theme=rose_pine&hide_border=true"/>
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKUMaE3w8ZoaN3O/giphy.gif" width="220"/>
+</p>
+
+---
+
+> *“Turning data into decisions and visuals into value.”* 🌟
