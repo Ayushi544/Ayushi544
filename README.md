@@ -1,9 +1,9 @@
 ---
 <h1 align="center">Hi 👋, I'm Ayushi Dadhich</h1>
-<h3 align="center">✨ Aesthetic & Passionate Data Analyst from India ✨</h3>
+<h3 align="center">✨ A Passionate Data Analyst from India ✨</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 ### 📂 Projects & Portfolio
 
-🔗 Check out all my projects [here](https://drive.google.com/drive/folders/1mSqrwN1LK22MDt0bPrC9LNWPcKxReTiN?usp=drive_link)
+🔗 Explore my interactive portfolio 👉 [Click Here](https://preview--my-portfolio-project.lovable.app/)
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmViNHd5bDZnZnBnczJ5MTh5N3p5dDVjcnk3anFoZHQ0ajBmMWI0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL1soZ3STRDSLGU/giphy.gif" width="300"/>
@@ -76,7 +76,7 @@
 ### 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUMaE3w8ZoaN3O/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="280"/>
 </p>
 
 ---
