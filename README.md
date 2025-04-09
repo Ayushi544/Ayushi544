@@ -3,10 +3,6 @@
 <h3 align="center">Data Analyst | Machine Learning Enthusiast | Author</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
-</p>
-
-<p align="center">
   <a href="https://preview--my-portfolio-project.lovable.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-lightpink?style=for-the-badge"/>
   </a>
@@ -26,10 +22,6 @@
 - 💬 Ask me about: `SQL`, `Power BI`, `Python`, `Business Development`
 - 🧠 I enjoy blending technical insights with creative expression
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpnd2g4dTU4Yzh5NWxpeWU4cGFnYzgwMG04NGdnb2I5ajh2MGF5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="250"/>
-</p>
-
 ---
 
 ### 🛠️ Tools & Technologies
@@ -47,11 +39,7 @@
 
 ### 📂 Projects & Portfolio
 
-🔗 Explore my interactive portfolio 👉 [Click Here](https://preview--my-portfolio-project.lovable.app/)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/UqZitjEZEjGUE/giphy.gif" width="300"/>
-</p>
+🔗 Explore my interactive portfolio on 👉 [Click Here](https://preview--my-portfolio-project.lovable.app/)
 
 ---
 
@@ -77,9 +65,13 @@
 ### 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhtYmx4bzNtcjY2YXpjY2xnaHlrZGE4azZ2cDF1djFwOW9mN3k0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIGT8YxAFfT4x5vR8k/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="280"/>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300"/>
+</p>
 
 > *“Turning data into decisions and visuals into value.”* 🌟
