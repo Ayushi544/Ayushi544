@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | Machine Learning Enthusiast | Author</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7gLkfA6A/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 - 🧠 I enjoy blending technical insights with creative expression
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd1YWV5NnNtcHR1YmZmb2o0YW5mbG80eG5ydHZ4MXB0Z2FidnA0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nm8ZPAGOwZUQM/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpnd2g4dTU4Yzh5NWxpeWU4cGFnYzgwMG04NGdnb2I5ajh2MGF5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -47,10 +47,10 @@
 
 ### 📂 Projects & Portfolio
 
-🔗 Explore my interactive portfolio on **Lovable** 👉 [Click Here](https://preview--my-portfolio-project.lovable.app/)
+🔗 Explore my interactive portfolio 👉 [Click Here](https://preview--my-portfolio-project.lovable.app/)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmViNHd5bDZnZnBnczJ5MTh5N3p5dDVjcnk3anFoZHQ0ajBmMWI0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL1soZ3STRDSLGU/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/UqZitjEZEjGUE/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ov9kbuQg8ayvoYGx6/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhtYmx4bzNtcjY2YXpjY2xnaHlrZGE4azZ2cDF1djFwOW9mN3k0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIGT8YxAFfT4x5vR8k/giphy.gif" width="280"/>
 </p>
 
 ---
