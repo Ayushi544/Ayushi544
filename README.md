@@ -1,6 +1,6 @@
 ---
 <h1 align="center">Hi 👋, I'm Ayushi Dadhich</h1>
-<h3 align="center">Data Analyst | Machine Learning Enthusiast | Author</h3>
+<h3 align="center">Data Analyst | Machine Learning Enthusiast |
 
 <p align="center">
   <a href="https://preview--my-portfolio-project.lovable.app/" target="_blank">
@@ -17,7 +17,6 @@
 
 - 🎓 Postgraduate in **Big Data Analytics** from CDAC Delhi
 - 📊 Aspiring **Data Analyst** passionate about data-driven decision making
-- ✍️ Author of *Scars and Silence* — a bilingual poetry collection exploring growth, responsibility, and healing
 - 🌱 Currently learning **Power BI**, **Machine Learning**, and **Advanced Analytics**
 - 💬 Ask me about: `SQL`, `Power BI`, `Python`, `Business Development`
 - 🧠 I enjoy blending technical insights with creative expression
